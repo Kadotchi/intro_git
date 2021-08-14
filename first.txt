@@ -1,3 +1,4 @@
 テスト
 .git add
-.git commid
+.git commit
+.git rm
